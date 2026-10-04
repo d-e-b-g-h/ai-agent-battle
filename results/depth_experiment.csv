@@ -1,0 +1,5 @@
+depth,result,moves,nodes_evaluated,nodes_pruned,time
+1,DRAW,9,25,0,0.000765
+2,DRAW,9,141,0,0.00118
+3,DRAW,9,386,94,0.002111
+4,DRAW,9,1369,278,0.005593
